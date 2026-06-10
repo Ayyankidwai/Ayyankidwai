@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on building real-time systems at Bob Rides from price comparison engines serving 100K+ users to secure Spring Boot APIs handling high volume transactions.<br>👯 I’m looking to collaborate on Full-stack products where AI meets real world utility think LLM powered pipelines, automation tools, or anything that ships fast and scales faster.<br>🤝 I’m looking for help with deepening my knowledge of distributed systems design and building production grade AI agents that go beyond demos.<br>🌱 I’m currently learning Advanced system design, cloud-native architectures on Azure & OCI, and how to make LLMs do the boring work so humans don't have to.<br>💬 Ask me about MERN stack, Spring Boot APIs, plugging Gemini/LLMs into real apps, or why structured logging will save your debugging sessions at 2 AM<br>⚡ Fun fact I built an AI that talks to patients like a doctor and it passed the vibe check. Also, I'm Oracle Cloud AI certified, which is a fancy way of saying I teach machines to think.
 
 
